@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dnd-kit-demo/static/css/main.b7164b27.css",
+    "main.js": "/dnd-kit-demo/static/js/main.4ee518b4.js",
+    "index.html": "/dnd-kit-demo/index.html",
+    "main.b7164b27.css.map": "/dnd-kit-demo/static/css/main.b7164b27.css.map",
+    "main.4ee518b4.js.map": "/dnd-kit-demo/static/js/main.4ee518b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7164b27.css",
+    "static/js/main.4ee518b4.js"
+  ]
+}
